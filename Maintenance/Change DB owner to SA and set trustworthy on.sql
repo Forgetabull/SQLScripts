@@ -1,0 +1,5 @@
+ALTER AUTHORIZATION ON DATABASE::MyDatabase TO sa;
+GO
+
+ALTER DATABASE MyDatabase SET trustworthy ON
+GO
