@@ -22,3 +22,29 @@ SQL Scripts
 |Add PK to table.sql|Primary Key script example|
 |Aggregate to 2hr Window.sql|Script to demonstrate aggregating timeseries data to 2 hour intervals|
 |LAG LEAD.sql|Handy Example Script that demonstrates LAG and LEAD|
+
+# Deeper Magic Scripts
+
+|Script|Purpose|
+|---|---|
+|Fill Down.sql|Example of filling down data in sql (as in, repeat the last value till we have a new one)
+|SELECT TOP 1 WITH TIES.sql|Elegant (and faster than group by) way of filtering data
+
+
+# Deeper Magic Scripts
+
+|Script|Purpose|
+|---|---|
+|Database Size.sql|Gets size of a database|
+|Space Used.sql|Gets space used by database|
+|External Scripts Enabled.sql|Switches external scripts to enabled|
+|Database - Switch from Restoring State.sql|Turns off restoring state|
+|TSQL Master Key.sql|Adds a master key if required|
+|Cycle SQL Server Error Log.sql|Cycle's the sqlserver error logs|
+|Resync Users.sql|Resyncs users with local users if you've restored from backup (or moved servers)|
+|Shrink DB Quick.sql|Super quick database shrink|
+|Change DB owner to SA and set trustworthy on.sql|Change DB owner to SA and set trustworthy on|
+|Kill all connections to a SQL Server.sql|Kill all connections to a SQL Server|
+|Fixing SUSPECT Database with DBCHECK.sql|Fixing SUSPECT Database with DBCHECK|
+|Fixing SUSPECT Database with simple restore.sql|Fixing SUSPECT Database with simple restore|
+|Backup - Shrink - Run this after removing from avail group.sql|Shrink database after being removed from availability group|
