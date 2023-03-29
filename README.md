@@ -52,6 +52,8 @@ SQL Scripts
 
 # Calling R from SQL Scripts
 
+|Script|Purpose|
+|---|---|
 |R_00_HelloWorld.sql|Example hello world via calling R within sqlserver|
 |R_01_SampleScript.sql|Second sample script to perform some minor R functions whilst in sqlserver|
 
