@@ -48,3 +48,11 @@ SQL Scripts
 |Fixing SUSPECT Database with DBCHECK.sql|Fixing SUSPECT Database with DBCHECK|
 |Fixing SUSPECT Database with simple restore.sql|Fixing SUSPECT Database with simple restore|
 |Backup - Shrink - Run this after removing from avail group.sql|Shrink database after being removed from availability group|
+
+
+# Calling R from SQL Scripts
+
+|R_00_HelloWorld.sql|Example hello world via calling R within sqlserver|
+|R_01_SampleScript.sql|Second sample script to perform some minor R functions whilst in sqlserver|
+
+
