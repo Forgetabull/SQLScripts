@@ -3,13 +3,13 @@ SQL Scripts
 
 |Script|Purpose|
 |---|---|
-|Date Stuff.sql||
-|Bulk Import Multiple CSV.sql||
-|Difference To Previous Row.sql||
-|Insert into from Select.sql||
-|Unused Indexes.sql||
-|Cleanup Duplicate Rows Example.sql||
-|Add Columns and Copy data from one table to another.sql||
+|Date Stuff.sql|Handy Date query stuff.|
+|Bulk Import Multiple CSV.sql|Bulk import from multiple csv example.|
+|Difference To Previous Row.sql|A way to determine differences between current row and previous row.|
+|Insert into from Select.sql|Insert into from a select query example|
+|Unused Indexes.sql|Find indexes which aren't used via statistics.|
+|Cleanup Duplicate Rows Example.sql|Example of cleaning up duplicates in a table prior to adding primary unique key|
+|Add Columns and Copy data from one table to another.sql|Copying data from one table to another.|
 |Add Audit Table for all DBs.sql|Add an audit table to all dbs on a server.|
 |Convert JSON to TABLE Row By Row3.sql|Example of converting a json field to a table row|
 |Bulk Import Sample.sql|Bulk Import example|
