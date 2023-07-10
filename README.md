@@ -31,7 +31,7 @@ SQL Scripts
 |SELECT TOP 1 WITH TIES.sql|Elegant (and faster than group by) way of filtering data
 
 
-# Deeper Magic Scripts
+# Maintenance Scripts
 
 |Script|Purpose|
 |---|---|
