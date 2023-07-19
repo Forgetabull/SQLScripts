@@ -1,2 +1,2 @@
-EXEC sp_rename 'C4', 'C4.Old'
-EXEC sp_rename 'C6', 'C4'
+EXEC sp_rename 'CF_APPROACH_ALL', 'CF_APPROACH_ALL_OLD'
+EXEC sp_rename 'CF_APPROACH_ALL_NEW', 'CF_APPROACH_ALL'
